@@ -1,0 +1,18 @@
+17:58:32.567 [main] DEBUG lpack.Demo - Demo Test Execution has Started
+17:58:33.857 [main] DEBUG lpack.Demo - Chrome Browser got launched
+17:58:33.978 [main] DEBUG lpack.Demo - Window maximized
+17:58:37.716 [main] DEBUG lpack.Demo - Navigted to Omayo application
+17:58:41.854 [main] DEBUG lpack.Demo - Clicked on onlytestingblog and navigated to onlytestingblog page
+17:58:41.883 [main] DEBUG lpack.Demo - Navigated backward to omayo application
+17:58:41.920 [main] DEBUG lpack.Demo - Navigated forward to onlytestingblog application
+17:58:41.935 [main] INFO  lpack.Demo - Success: The correct page title gor displayed
+17:58:42.097 [main] DEBUG lpack.Demo - Browser got closed and the Test got ended
+13:04:10.596 [main] DEBUG lpack.Demo - Demo Test Execution has Started
+13:04:13.017 [main] DEBUG lpack.Demo - Chrome Browser got launched
+13:04:13.151 [main] DEBUG lpack.Demo - Window maximized
+13:04:16.446 [main] DEBUG lpack.Demo - Navigted to Omayo application
+13:04:21.906 [main] DEBUG lpack.Demo - Clicked on onlytestingblog and navigated to onlytestingblog page
+13:04:21.931 [main] DEBUG lpack.Demo - Navigated backward to omayo application
+13:04:21.971 [main] DEBUG lpack.Demo - Navigated forward to onlytestingblog application
+13:04:21.987 [main] INFO  lpack.Demo - Success: The correct page title gor displayed
+13:04:22.164 [main] DEBUG lpack.Demo - Browser got closed and the Test got ended
